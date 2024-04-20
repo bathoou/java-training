@@ -1,0 +1,7 @@
+Employee ID:12345
+Employee Name     :padmanaban A
+Father's Name     :Ananthan
+Employee Contact  :9176757558
+Email Information :bathoou@gmail.com
+Employee position :manager
+Employee Salary   :1000000
